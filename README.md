@@ -1,5 +1,5 @@
 # HRFAL
-Source code of "Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering" published in Knowledge-Based Systems 2026.
+Source code of "Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering" published in Pattern Recognition 2026.
 
 If you have any questions, please don't hesitate to contact Yunpeng Zeng via yunpengzeng88@163.com.
 
