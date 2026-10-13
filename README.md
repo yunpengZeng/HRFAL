@@ -2,10 +2,7 @@
 
 [![Journal](https://img.shields.io/badge/Journal-Pattern%20Recognition-orange)](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288)
 
-
-
-![image-20261013162055154](C:\Users\00\AppData\Roaming\Typora\typora-user-images\image-20261013162055154.png)
-
+<img width="888" height="480" alt="image" src="https://github.com/user-attachments/assets/f68e4ffb-428b-408f-8529-471522f6b624" />
 
 
 If you have any questions, please don't hesitate to contact Yunpeng Zeng via yunpengzeng88@163.com.
